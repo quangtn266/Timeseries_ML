@@ -8,8 +8,8 @@ Thanks for author's contribution.
 ## Running.
 look at requirements.txt for install libraries
 
-'''
+```
 pip install -r requirements.txt
 
 jupyter lab [notebook]
-'''
+```
