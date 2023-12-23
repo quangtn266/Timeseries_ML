@@ -1,0 +1,13 @@
+featuretools==1.28.0
+ipython==8.12.3
+ipywidgets==8.1.1
+jupyterlab==4.0.9
+matplotlib==3.7.4
+numpy==1.24.4
+pandas==1.5.3
+Pillow==10.1.0
+psutil==5.9.7
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+scikit-learn==1.3.2
+scipy==1.10.1
+seaborn==0.13.0
