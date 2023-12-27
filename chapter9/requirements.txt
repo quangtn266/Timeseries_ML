@@ -1,0 +1,6 @@
+andas-datareader
+plotly
+prophet
+statsmodels
+pyFTS
+SimpSOM
